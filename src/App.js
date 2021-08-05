@@ -31,7 +31,7 @@ import React, { Component } from 'react';
     return (
    
     <div class = "container-fluid">
-      <h1 id="text-app"><em>Text App</em></h1>
+      <h1 id="text-app"><em>React Text App</em></h1>
       <form class = "form-control" onSubmit = {this.handleSubmit}>
           <div class="form-group">
             <label for="exampleInputText">Enter your text</label>
